@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 Yuki  Sasa 24c1059lh@s.chibakoudai.jp
+# SPDX-License-Identifier: BSD-3-Clause
+
+import sys 
+
+ans = 0
+
+for line in sys.stdin:
+    try:
+        ans += int(line)
+    except:
+        ans += float(line)
+
+print(ans)

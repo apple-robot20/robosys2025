@@ -1,7 +1,7 @@
 # robosys2025
 ロボットシステム学課題１
 
-![test](https://github.com/sasayuki/robosys2025/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/apple-robot20/robosys2025/actions/workflows/test.yml/badge.svg)
 
 - このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 - このパッケージは，(https://ryuichiueda.github.io/slides_marp/robosys2025/lesson5.html)由来のコード（© 2025 Ryuichi Ueda）を利用しています．
